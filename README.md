@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/8bw4rjswsqyq2mdi?svg=true)](https://ci.appveyor.com/project/Romagor/hw-2-2-postman-echo)
